@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "taufik",
+      "password": "123456",
+      "nik": "2023201002"
+    },
+    {
+      "id": 2,
+      "nama": "zaidan",
+      "password": "123456",
+      "nik": "2023201002"
+    }
+  ],
+  "presensi": [
+    {
+      "id": 1,
+      "nama": "Taufik",
+      "jenis_kehadiran": "hadir"
+    },
+    {
+      "nama": "Taufik",
+      "jenis_kehadiran": "hadir",
+      "presensiId": "1",
+      "id": 2
+    },
+    {
+      "nama": "Faishal",
+      "jenis_kehadiran": "hadir",
+      "presensiId": "2",
+      "id": 3
+    }
+  ]
+}

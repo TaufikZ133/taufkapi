@@ -4,13 +4,19 @@
       "id": 1,
       "nama": "taufik",
       "password": "123456",
-      "nik": "2023201002"
+      "nik": "2013201001"
     },
     {
       "id": 2,
       "nama": "zaidan",
       "password": "123456",
-      "nik": "2023201002"
+      "nik": "2013201002"
+    },
+    {
+      "id": 3,
+      "nama": "fajri",
+      "password": "123456",
+      "nik": "2013201003"
     }
   ],
   "presensi": [
